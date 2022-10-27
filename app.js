@@ -4,7 +4,7 @@ const predictions = [
     { prediction: "Big cash prize awaits you" },
     { prediction: "If you pay attention, you will see love very close to you" },
     { prediction: "You will be able to avoid losses in an important matter" },
-    { prediction: "You can see opportunities for growth if you look at the situation from a different angle" },
+    { prediction: "You can see opportunities for growth if you look around" },
     { prediction: "Intuition will not let you down in this race. Use it" },
     { prediction: "I am not a product of my circumstances. I am a product of my decisions." },
     { prediction: "Listen to yourself and the answer to the question will be found" },
